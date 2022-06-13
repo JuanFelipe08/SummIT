@@ -1,2 +1,0 @@
-# SummIT
-Prueba Desarrollador

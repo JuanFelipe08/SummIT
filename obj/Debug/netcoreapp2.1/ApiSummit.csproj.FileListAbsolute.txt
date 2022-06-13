@@ -1,0 +1,14 @@
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.RazorAssemblyInfo.cache
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.RazorAssemblyInfo.cs
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.AssemblyInfoInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.AssemblyInfo.cs
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\bin\Debug\netcoreapp2.1\ApiSummit.deps.json
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\bin\Debug\netcoreapp2.1\ApiSummit.runtimeconfig.json
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\bin\Debug\netcoreapp2.1\ApiSummit.runtimeconfig.dev.json
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\bin\Debug\netcoreapp2.1\ApiSummit.dll
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\bin\Debug\netcoreapp2.1\ApiSummit.pdb
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.RazorTargetAssemblyInfo.cache
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.dll
+D:\Documentos\Visual Studio 2017\Projects\ApiSummit\obj\Debug\netcoreapp2.1\ApiSummit.pdb
